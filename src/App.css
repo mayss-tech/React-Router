@@ -1,0 +1,90 @@
+.search-bar{
+    display: flex;
+    height: 10%;
+    width: 100%;
+    background-color: darkcyan;
+    position: fixed;
+    top:0;
+    }
+    .loop{
+        margin-right:0.2vw;
+        margin-top: 1.8vw;
+    }
+    .search-bar>input{
+        height: 40%;
+        margin-top:1.3vw; ;
+    }
+    .search-bar>h4{
+        margin-left: 31vw;
+        margin-right: 1vw;
+    }
+     .block0{
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .block1{
+        margin-top: 7%;
+        margin-bottom: 2vw; 
+        border: darkcyan 2px solid;
+        max-width: 30vw;
+    }
+    p{
+        text-align: center;
+    }
+    h5{
+        text-align: center;
+    }
+    img{
+        width: 30vw;
+        height: 20vw;
+    }
+    .card{
+         width: 38vw;
+        height: 25vw; 
+        margin-bottom: 10vw;
+        margin-left:30vw; 
+        background-image: url(https://img1.pnghut.com/4/20/18/u5XtMTakAk/cartoon-product-design-film-communication-clip-art.jpg);
+    }  
+  
+    .card>input{
+        display: block;
+        margin-left:12vw;
+    }
+  
+    .btn{
+        margin-left:16.5vw;
+    } 
+    .rate1, .rate2, .rate3,  .rate4, .rate5, .rate0 {
+      margin-left: 12vw;
+    }
+    .rate1 .star1 { color: darkcyan; } .rate1 .star2 , .rate1 .star3 , .rate1 .star4 , .rate1 .star5 { color: rgb(128, 123, 123); } 
+  
+     .rate2 .star1 , .rate2 .star2 { color: darkcyan; } .rate2 .star3 , .rate2 .star4 , .rate2 .star5 { color: rgb(128, 123, 123); } 
+  
+    .rate3 .star1 , .rate3 .star2 , .rate3 .star3 { color: darkcyan; } .rate3 .star4 , .rate3 .star5 { color: rgb(128, 123, 123); } 
+   
+    .rate4 .star1 , .rate4 .star2 , .rate4 .star3 , .rate4 .star4 { color: darkcyan; } .rate4 .star5 { color: rgb(128, 123, 123); } 
+   
+    .rate5 i  { color: darkcyan; } 
+  
+     .rate0 i  { color: rgb(128, 123, 123); }
+    /* .rate{display: none;} */
+  img{
+    cursor: pointer;
+} 
+.btn2{
+    background-color: darkcyan;
+    margin-left: 48vw;
+    color: black;
+    margin-bottom: 5vw;
+}
+ .block2{
+margin-top: 6%;
+} 
+.description{
+    border: darkcyan 2px solid;
+    margin-left: 28vw;
+    margin-right: 28vw;
+}
+
